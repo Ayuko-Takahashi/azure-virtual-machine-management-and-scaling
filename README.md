@@ -5,7 +5,7 @@ This repository showcases hands-on experience with Microsoft Azure, focusing on 
 ## 🚀 Project Overview
 This project demonstrates practical cloud administration scenarios involving the management and optimization of Azure virtual machines. The work emphasizes operational tasks commonly performed by cloud administrators in real-world environments, including scaling strategies, availability considerations, and resource governance.
 
-## 🔑 Key Activities
+## 🧩 Key Activities
 - Managed Azure virtual machines through the Azure Portal
 - Configured availability and resiliency options
 - Implemented compute scaling strategies
